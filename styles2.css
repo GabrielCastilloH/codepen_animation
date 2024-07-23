@@ -15,9 +15,9 @@
   -webkit-user-select: none;
 }
 .wrapper .box-wrap {
-  width: 70%;
-  height: 70%;
-  margin: calc((100% - 70%)/2) calc((100% - 70%)/2);
+  width: 150%;
+  height: 150%;
+  margin: calc((100% - 150%)/2) calc((100% - 150%)/2);
   position: relative;
   transform: rotate(-45deg);
 }
